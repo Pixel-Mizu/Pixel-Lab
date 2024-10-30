@@ -15,4 +15,4 @@ Welcome to ***Script-Lab!*** This repository is your future destination for expl
 While the repository is still in its early stages, contributions are welcome! If you have ideas for scripts, tutorials, or resources that can help enhance the repository, feel free to reach out.
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT LICENSE. See the LICENSE file for details.
