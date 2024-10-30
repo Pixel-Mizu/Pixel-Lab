@@ -7,18 +7,18 @@
 - **Creative Projects**: Unique coding projects that combine technology with artistic expression.
 - **Resources**: Useful links, tools, and references to aid your learning journey.
 
+## 📺 Follow My YouTube Channel
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Pixel--Mizu-white?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCwnwfwuFNvK6oliUrNiEBBw)
+
 ## 📚 Getting Started
 1. **Clone the Repository**:
 ``` bash
-   git clone https://github.com/Pixel-Mizu/Pixel-Lab.git
+git clone https://github.com/Pixel-Mizu/Pixel-Lab.git
  ```
 Navigate to the Directory:
 ``` bash
 cd Pixel-Lab
 ```
-## 🌐 Follow Along
-YouTube:[![YouTube Channel](https://img.shields.io/badge/YouTube-Pixel--Mizu-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCwnwfwuFNvK6oliUrNiEBBw)
-
 ## 🤝 Contributing
 Contributions are welcome! If you have ideas, suggestions, or scripts you’d like to share, feel free to create a pull request or open an issue.
 
