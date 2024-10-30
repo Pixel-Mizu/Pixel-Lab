@@ -8,7 +8,7 @@
 - **Resources**: Useful links, tools, and references to aid your learning journey.
 
 ## 📺 Follow My YouTube Channel
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Pixel--Mizu-white?style=for-the-badge&logo=youtube&logoColor=white&color=purple)](https://www.youtube.com/channel/UCwnwfwuFNvK6oliUrNiEBBw)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Pixel--Mizu-white?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCwnwfwuFNvK6oliUrNiEBBw)
 
 ## 📚 Getting Started
 **1. Clone the Repository**:
